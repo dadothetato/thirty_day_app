@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">ThirtyDaysApp</string>
+    <string name="app_name">30 days of push-ups</string>
+    <string name="day_one">100 incline push-ups</string>
+    <string name="day_two">100 regular push-ups</string>
+    <string name="day_three">100 spider-man push-ups</string>
+    <string name="day_four">100 push-ups with rotation</string>
+    <string name="day_five">100 toe touch push-ups</string>
+    <string name="day_six">100 decline push-ups</string>
+    <string name="day_seven">100 wide-grip push-ups</string>
+    <string name="day_eight">100 close-grip push-ups</string>
+    <string name="day_nine">100 diamond push-ups</string>
+    <string name="day_ten">100 reverse grip push-ups</string>
+    <string name="day_eleven">100 knuckle push-ups</string>
+    <string name="day_twelve">100 finger push-ups</string>
+    <string name="day_thirteen">100 push-ups with push-up bars</string>
+    <string name="day_fourteen">100 resistance band push-ups</string>
+    <string name="day_fifteen">100 cross arm push-ups</string>
+    <string name="day_sixteen">100 isometric push-ups</string>
+    <string name="day_seventeen">100 sphinx push-ups</string>
+    <string name="day_eighteen">100 Hindu push-ups</string>
+    <string name="day_nineteen">100 cobra push-ups</string>
+    <string name="day_twenty">100 plyo push-ups</string>
+    <string name="day_twenty_one">100 clapping push-ups</string>
+    <string name="day_twenty_two">100 archer push-ups</string>
+    <string name="day_twenty_three">100 typewriter push-ups</string>
+    <string name="day_twenty_four">100 one-arm knee push-ups</string>
+    <string name="day_twenty_five">100 one-arm supported push-ups</string>
+    <string name="day_twenty_six">100 pike push-ups</string>
+    <string name="day_twenty_seven">100 elevated pike push-ups</string>
+    <string name="day_twenty_eight">100 pseudo planche push-ups</string>
+    <string name="day_twenty_nine">100 one-arm push-ups</string>
+    <string name="day_thirty">100 handstand push-ups</string>
 </resources>
+
+
