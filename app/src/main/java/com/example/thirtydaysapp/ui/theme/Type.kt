@@ -14,20 +14,15 @@ val OpenSans = FontFamily(
     Font(R.font.open_sans_bold, FontWeight.Bold)
 )
 
-
 val Typography = Typography(
     displayLarge = TextStyle(
         fontFamily = OpenSans,
-        fontWeight = FontWeight.Bold,
-        fontSize = 32.sp,
-        lineHeight = 36.sp,
-        letterSpacing = 0.5.sp
+        fontWeight = FontWeight.Normal,
+        fontSize = 36.sp
     ),
-    titleLarge = TextStyle(
+    bodyLarge = TextStyle(
         fontFamily = OpenSans,
         fontWeight = FontWeight.Normal,
-        fontSize = 22.sp,
-        lineHeight = 28.sp,
-        letterSpacing = 0.sp
-    ),
+        fontSize = 16.sp
+    )
 )
