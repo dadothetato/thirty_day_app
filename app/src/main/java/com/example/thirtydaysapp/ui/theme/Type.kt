@@ -17,8 +17,8 @@ val OpenSans = FontFamily(
 val Typography = Typography(
     displayLarge = TextStyle(
         fontFamily = OpenSans,
-        fontWeight = FontWeight.Normal,
-        fontSize = 36.sp
+        fontWeight = FontWeight.Bold,
+        fontSize = 20.sp
     ),
     bodyLarge = TextStyle(
         fontFamily = OpenSans,
